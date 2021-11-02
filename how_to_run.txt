@@ -1,0 +1,3 @@
+To run the unit tests, you can run them directly in an IDE like intelliJ,
+or run the build files. If unit tests ran successfully, you would see the unit tests executing in
+the intelliJ IDE or in the terminal. 

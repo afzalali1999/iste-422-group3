@@ -1,0 +1,11 @@
+EdgeField:
+----------
+- setters and getters for the following attributes:
+    numFigure, name, tableID, tableBound, fieldBound, disallowNull, isPrimaryKey, defaultValue, varcharValue, dataType
+
+EdgeTable:
+----------
+- setters and getters for the following attributes:
+    alRelatedTables, alNativeFields
+- makeArray method converts the arralylist into arrays of the following:
+    relatedTables, relatedFields, nativeFields
